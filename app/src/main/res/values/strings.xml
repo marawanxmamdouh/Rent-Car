@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Car Rent</string>
+    <string name="logo">logo</string>
+    <string name="bg">bg</string>
+    <string name="rent">Rent</string>
+    <string name="bull_s">Bull\'s</string>
+    <string name="splash3">Notion wide Car rental app</string>
+    <string name="sign_up">sign up</string>
+    <string name="new_user">New User?&#160;</string>
+    <string name="go">GO</string>
+    <string name="email">Email</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="hello_there_nwelcome_back">Hello there, \nWelcome back</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="welcome">Welcome,&#160;</string>
+    <string name="sign_up_to_start_your_new_journey">sign up to start your new journey</string>
+    <string name="already_have_an_account">Already have an account&#160;</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="user_name">User Name</string>
+</resources>
