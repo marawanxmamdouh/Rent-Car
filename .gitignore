@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/java/com/marawanxmamdouh/carrent/ui/
+/app/src/main/res/layout/fragment_gallery.xml
+/app/src/main/res/layout/fragment_home.xml
+/app/src/main/res/layout/fragment_slideshow.xml
+/app/src/main/res/menu/navigation_drawer.xml
